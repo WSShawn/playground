@@ -1,4 +1,4 @@
-# I am making some changes, my name is Shangshang Wang
+# I am making some changes, my name is Jiaye Chen
 
 Shangshang Wang is taking BMI 703
 
@@ -8,5 +8,5 @@ A place to play with `git`.
 
 
 
-Lanting Li, Jiaye Chen, Jenny Dong have visited this page twice.
+Lanting Li,JiayeChen, Jenny Dong have visited this page twice.
 
