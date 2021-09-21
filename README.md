@@ -8,5 +8,5 @@ A place to play with `git`.
 
 
 
-Lanting Li and Jiaye Chen have visited this page twice.
+Lanting Li, Jiaye Chen, Jenny Dong have visited this page twice.
 
