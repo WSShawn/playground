@@ -1,4 +1,4 @@
-# I am making some changes, my name is Shangshang Wang
+# I am making some changes, my name is Jiaye Chen
 
 Shangshang Wang is taking BMI 703
 
